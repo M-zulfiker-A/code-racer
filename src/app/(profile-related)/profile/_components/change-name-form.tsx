@@ -41,7 +41,7 @@ export default function ChangeNameForm({
           }
         }}
         ref={inputRef}
-        className="text-2xl font-bold"
+        className="text-3xl font-bold"
       />
     </div>
   );
